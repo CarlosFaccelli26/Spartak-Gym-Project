@@ -187,7 +187,10 @@ body {
 
 }
 
-.text-products {
+.text-products a {
+    text-decoration: none;
+}
+.text-products h5 {
     margin: auto;
     text-align: center;
 }
