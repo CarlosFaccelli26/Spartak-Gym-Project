@@ -231,10 +231,20 @@ body {
 
 /*---------------------------------------------Table */
 
+.timetable {
+    background: black;
+}
+
+.card-header {
+    background: black;
+    border: black;
+}
+
 .table-sub-header {
     text-align: center;
     font-weight: 700;
     font-style: italic;
+    color: #fafafa;
 }
 
 .table-sub-header h2 {
@@ -248,5 +258,18 @@ body {
 }
 
 .btn-header:hover {
+    color: black;
+}
+
+.table-bg {
+    background: rgb(119, 105, 105);
+    color: #fafafa;
+    text-align: center;
+}
+
+.table-heading {
+    font-size: 25px;
+    font-weight: italic;
+    font-weight: 700;
     color: black;
 }
