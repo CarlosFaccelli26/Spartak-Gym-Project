@@ -228,3 +228,25 @@ body {
     color: black;
     font-weight: 700;
 }
+
+/*---------------------------------------------Table */
+
+.table-sub-header {
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.table-sub-header h2 {
+    font-size: 40px;
+}
+.btn-header {
+    font-style: italic;
+    font-weight: 700;
+    color: black;;
+    background: rgb(231, 78, 23);
+}
+
+.btn-header:hover {
+    color: black;
+}
