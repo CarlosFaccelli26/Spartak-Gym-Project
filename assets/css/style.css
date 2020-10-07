@@ -187,6 +187,10 @@ body {
 
 }
 
+.text-products {
+    align-content: center;
+}
+
 .text-products a {
     text-decoration: none;
 }
@@ -242,7 +246,7 @@ body {
 
 .card-header {
     background: black;
-    border: black;
+    border: none;
 }
 
 .card-body {
@@ -278,7 +282,7 @@ body {
 
 .table-heading {
     font-size: 25px;
-    font-weight: italic;
+    font-style: italic;
     font-weight: 700;
     color: black;
 }
