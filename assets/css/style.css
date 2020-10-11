@@ -130,46 +130,25 @@ body {
 }
 
 .exercise-text {
-    color: #fafafafa;
     font-style: italic;
     margin-top: 10px;
 }
 
 .exercise-text h4 {
+    color: #fafafa;
     font-weight: 700;
     text-decoration: underline;
     letter-spacing: 1px;
 }
 
-/*---------------------------------------------Opinion */
-
-.opinion-header {
-    text-align: center;
-    font-size: 35px;
-    font-weight: 700;
-    font-style: italic;
-}
-
-.opinion p {
-    text-align: center;
-}
-
-.opinion-sub-header {
-    text-align: center;
-    font-size: 25px;
-    font-weight: 400;
-    font-style: italic;
-}
-
-.opinion-bg {
-    background: black;
-    color: #fafaff;
+.exercise-text p {
+    color: #1a1a1a;
 }
 
 /*---------------------------------------------Products */
 
 .products {
-    height: 100vh;
+    height: auto;
     background: rgb(83, 72, 72);
 }
 
@@ -213,6 +192,32 @@ body {
     background: url(../images/product-image.jpg);
     background-size: cover;
 }
+
+/*---------------------------------------------Opinion */
+
+.opinion-header {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.opinion p {
+    text-align: center;
+}
+
+.opinion-sub-header {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.opinion-bg {
+    background: black;
+    color: #fafaff;
+}
+
 
 /*---------------------------------------------Footer */
 
