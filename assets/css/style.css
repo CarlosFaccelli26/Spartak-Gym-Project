@@ -65,8 +65,8 @@ body {
     font-size: 18px;
 }
 
-.btn-orange {
-    background: rgba(255, 72, 0, 0.89);
+.btn-bg {
+    background: rgba(255, 81, 0, 0.89);
     width: 20%;
     border-radius: 15px;
     color: #fafafa;
@@ -77,7 +77,7 @@ body {
     margin-top: 50px;
 }
 
-.btn-orange:hover {
+.btn-bg:hover {
     color: #fafafa;
 }
 
@@ -119,14 +119,16 @@ body {
     background-position: center;
     height: 100vh;
     text-align: center;
-}
-
-.exercise-bg {
-    color: #fafafa;
+    margin: auto;
 }
 
 .exercise-bg h2 {
-    margin-top: 50%;
+    color: #fafafa;
+}
+
+.exercise-bg p {
+    color: rgb(155, 148, 148);
+    margin-top: 80%;
 }
 
 .exercise-text {
@@ -195,15 +197,20 @@ body {
 
 /*---------------------------------------------Opinion */
 
+.opinion-bg {
+    background: black;
+    color: #fafaff;
+}
+
+.border-bg {
+    border: 1px solid #fafafa;
+}
+
 .opinion-header {
     text-align: center;
     font-size: 35px;
     font-weight: 700;
     font-style: italic;
-}
-
-.opinion p {
-    text-align: center;
 }
 
 .opinion-sub-header {
@@ -213,10 +220,15 @@ body {
     font-style: italic;
 }
 
-.opinion-bg {
-    background: black;
-    color: #fafaff;
+.opinion h6 {
+    text-align: center;
+    color: rgb(236, 69, 8);
 }
+.opinion p {
+    text-align: center;
+}
+
+
 
 
 /*---------------------------------------------Footer */
@@ -329,3 +341,18 @@ body {
 }
 
 /*---------------------------------------------Media Queries */
+
+/*---------------------------------------------Motivation */
+
+@media (max-width: 812px) {
+    .embed-responsive{
+        width: 100%;
+    }
+}
+
+/*---------------------------------------------Exercise */
+@media (max-width: 736px) {
+    .exercise-bg p {
+       margin-top: 120%;
+    }
+}
