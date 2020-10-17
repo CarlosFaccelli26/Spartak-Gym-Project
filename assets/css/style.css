@@ -128,9 +128,8 @@ body {
 
 .location-time {
     color: rgb(155, 148, 148);
-    margin-top: 80%;
-    display: flex;
     margin-top: 90%;
+    display: flex;
 }
 
 .exercise-text {
