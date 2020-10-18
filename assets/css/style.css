@@ -360,6 +360,16 @@ body {
 
 /*---------------------------------------------Media Queries */
 
+/*---------------------------------------------Hero */
+
+@media screen and (max-width: 812px) {
+    .hero {
+        height: 100vh;
+        background: url(../images/hero-image-mobile.jpg) no-repeat center center;
+        background-size: cover;
+    }
+}
+
 /*---------------------------------------------Motivation */
 
 @media (max-width: 812px) {
