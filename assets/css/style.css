@@ -94,9 +94,10 @@ body {
     font-family: 'Roboto', sans-serif;
     font-style: italic;
     font-weight: 700;
-    font-size: 35px;
+    font-size: 45px;
     letter-spacing: 1px;
     margin-top: 10px;
+    color: rgb(245, 73, 11);
 }
 
 .motivation p {
@@ -107,7 +108,7 @@ body {
 .head-line {
     font-size: 25px;
     font-weight: 700;
-    color: rgb(243, 71, 8);
+    color: #1a1a1a;
 }
 
 .embed-responsive {
