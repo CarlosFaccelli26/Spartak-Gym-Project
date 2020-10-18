@@ -249,16 +249,14 @@ body {
     display: flex;
     text-align: center;
     align-items: center;
-    position: relative;
 }
 
 .icon-footer {
     display: flex;
     align-items: center;
     justify-content: left;
-    position: absolute;
-    top: 30%;
-    left: 0;
+    margin: auto;
+    margin-top: 12%;
 }
 
 .icon-footer a i {
@@ -404,7 +402,12 @@ body {
 @media (max-width: 812px) {
     .footer-site {
         display: flex;
-        text-align: center;
+        align-items: center;
+        justify-content: space-between;
+        padding-bottom: 100px;
+    }
 
+    .icon-footer a i {
+        margin-right: 80px;
     }
 }
