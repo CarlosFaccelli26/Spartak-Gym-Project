@@ -187,9 +187,13 @@ body {
     color: #f54b08;
 }
 
+.text-product p {
+    margin-bottom: 0;
+}
 
-.text-product a {
-    color: #1a1a1a;;
+.text-product a i {
+    color: #1a1a1a;
+    margin-bottom: 30px;
 }
 
 
