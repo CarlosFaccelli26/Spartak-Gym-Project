@@ -87,8 +87,7 @@ body {
     text-align: center;
     height: 100vh;
     display: flex;
-    align-items: center;
-    margin-top: 50px;
+    align-items: flex-start;
 }
 
 .motivation h2 {
@@ -97,15 +96,24 @@ body {
     font-weight: 700;
     font-size: 35px;
     letter-spacing: 1px;
+    margin-top: 10px;
 }
 
 .motivation p {
     font-style: italic;
+    margin-top: 25px;
+}
+
+.head-line {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(243, 71, 8);
 }
 
 .embed-responsive {
     width: 40%;
     margin: auto;
+    margin-top: 110px;
 }
 
 /*---------------------------------------------Exercise */
@@ -373,6 +381,11 @@ body {
 /*---------------------------------------------Motivation */
 
 @media (max-width: 812px) {
+
+    .motivation {
+        height: auto;
+    }
+
     .embed-responsive{
         width: 100%;
     }
@@ -391,6 +404,7 @@ body {
 @media (max-width: 812px) {
     .footer-site {
         display: flex;
+        text-align: center;
 
     }
 }
