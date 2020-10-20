@@ -1,6 +1,47 @@
 # Spartak-Gym-Project
-## Libraries that will be used
-Bootstrap, font awesome and google fonts.
+
+Spartak Gym is a project about a gym which is grwoing fast and expand their field of training to give all the options to its users.
+It has their own store on the gym which make things more confrotable to people who are running out of time and have no time to waste.
+
+# UX
+The project is focused on people who does not go to the gym regulary, we tried to incetive people to workout their bodies, showing a lot of options to workout and leting them know that the staff are professionals in theri fields.
+
+# Features
+
+### Nav section
+Our nav section contains three sites, which are home, timetabel is where we show our schechule for workouts in differents diciplines.
+
+### Hero Motivation
+Hero section consist in a shocking phrase to catch the attention and a huge image.
+
+### Motivation section
+There is a paragraph wich motivates you to give a chance to workout also we add a video showing giving more motivation.
+
+### Exercise section
+We show some of the diciplines that the gym provides and a brief description of what consist that dicipline.
+
+### Products section
+Products section contains a few stuff that the gym has to offer like milk shakes or bars proteins.
+
+### Opinion section
+Opinion section has a review from some costumers who went to the gym and express how they felt working out in Spartak Gym.
+
+### TimeTable section
+Time table shows a schechule of diciplines throughout the week.
+
+### Contact section
+Contact section provides a form to get in touch with the gym and ask something that they might interest in.
+
+# Technologies used
+[Bootstrap](https://getbootstrap.com/)
+I used bootstrap to help me to creat a good layout.
+
+[FontAwesome](https://fontawesome.com/)
+FontAwesome was used to use the bar icon for the nav.
+
+[GoogleFonts](https://fonts.google.com/)
+Was used to change the font of the entire website.
+
 
 ## Images used on this Project
 All the images are taking from a website called pixabay.
