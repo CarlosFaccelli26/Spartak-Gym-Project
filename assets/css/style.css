@@ -247,11 +247,16 @@ body {
     text-align: center;
 }
 
+/*---------------------------------------------Location */
+
+.location {
+    height: 100vh;
+}
+
 /*---------------------------------------------Footer */
 
 .footer-site {
     height: 15vh;
-    margin-top: 50px;
     display: flex;
     text-align: center;
     align-items: center;
@@ -262,7 +267,7 @@ body {
     align-items: center;
     justify-content: space-between;
     margin: auto;
-    margin-top: 12%;
+    margin-top: 8%;
 }
 
 .icon-footer a i {
@@ -272,16 +277,12 @@ body {
     margin-right: 20px;
 }
 
-.location-time {
+.time {
     color: #1a1a1a;
-    display: flex;
-    text-align: center;
+    text-align: right;
     align-items: center;
-    justify-content: space-evenly;
-}
-
-.location {
-    padding-bottom: 40px;
+    margin: auto;
+    margin-top: 30px;
 }
 
 
@@ -410,7 +411,7 @@ body {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding-bottom: 100px;
+        padding-bottom: 40px;
     }
 }
 
