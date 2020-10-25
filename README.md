@@ -32,6 +32,13 @@ Time table shows a schechule of diciplines throughout the week.
 ### Contact section
 Contact section provides a form to get in touch with the gym and ask something that they might interest in.
 
+![screenshot1](assets/images/screenshotProject.png)
+![screenshot2](assets/images/screenshotProject-2.png)
+![screenshot3](assets/images/screenshotProject-3.png)
+![screenshot4](assets/images/screenshotProject-4.png)
+![screenshot5](assets/images/screenshotProject-5.png)
+![screenshot6](assets/images/screenshotProject-6.png)
+
 # Technologies used
 [Bootstrap](https://getbootstrap.com/)
 I used bootstrap to help me to creat a good layout.
