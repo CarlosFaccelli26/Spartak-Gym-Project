@@ -9,7 +9,7 @@ The project is focused on people who does not go to the gym regulary, we tried t
 # Features
 
 ### Nav section
-Our nav section contains three sites, which are home, timetabel is where we show our schechule for workouts in differents diciplines.
+Our nav section contains three sites, which are home, timetabel and Contact. Home it will represent the main page, Timetable will lead to the schechule that the gym for each classes, and contact will give you the access to get in contact with the gym.
 
 ### Hero Motivation
 Hero section consist in a shocking phrase to catch the attention and a huge image.
@@ -52,24 +52,30 @@ Was used to change the font of the entire website.
 [Balsamiq](https://balsamiq.com/wireframes/?gclid=Cj0KCQjwxNT8BRD9ARIsAJ8S5xaAbjJltmwD4q91nzDzQshYwxYDZuBzF_kJr_SYEDblnesiQi3-QnoaAipTEALw_wcB)
 Used to create a sketch of the project.
 
+# Testing
 
-## Images used on this Project
-All the images are taking from a website called pixabay.
 
-## Hero image
+# Deployment
+
+# Credits
+
+### Images used on this Project
+All the images are taking from a website called [pixabay](https://pixabay.com/) and [unsplash](https://unsplash.com/).
+
+### Hero image
 
 Image by <a href="https://pixabay.com/users/5132824-5132824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2264825">5132824</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2264825">Pixabay</a>
 
-## Hero image on mobile phone
+### Hero image on mobile phone
 Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1282232">Pexels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1282232">Pixabay</a>
 
-## Exercise image
+### Exercise image
 Image by <a href="https://pixabay.com/users/5132824-5132824/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2250970">5132824</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2250970">Pixabay</a>
 
-## Products image
+### Products image
 <span>Photo by <a href="https://unsplash.com/@lime517?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joseph Greve</a> on <a href="https://unsplash.com/s/photos/protein-powders?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-## Opinions Images.
+### Opinions Images.
 First guy image
 Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1845166">Pexels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1845166">Pixabay</a>
 
@@ -82,5 +88,8 @@ Image by <a href="https://pixabay.com/users/jerzygorecki-2233926/?utm_source=lin
 Second girl image
 Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=919048">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=919048">Pixabay</a>
 
-## Motivation video
+### Motivation video
 Video is taken from the chanel of [MotivationGrid](https://www.youtube.com/user/MotivationGrid)
+
+### Acknowledgement
+I received inspiration from [Colorlib](https://colorlib.com/wp/gym-websites-design/) [Fitness Factory](https://fitnessfactorymaine.com/)
