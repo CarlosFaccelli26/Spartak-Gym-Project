@@ -49,6 +49,9 @@ FontAwesome was used to use the bar icon for the nav.
 [GoogleFonts](https://fonts.google.com/)
 Was used to change the font of the entire website.
 
+[Balsamiq](https://balsamiq.com/wireframes/?gclid=Cj0KCQjwxNT8BRD9ARIsAJ8S5xaAbjJltmwD4q91nzDzQshYwxYDZuBzF_kJr_SYEDblnesiQi3-QnoaAipTEALw_wcB)
+Used to create a sketch of the project.
+
 
 ## Images used on this Project
 All the images are taking from a website called pixabay.
