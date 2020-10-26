@@ -5,6 +5,7 @@ It has their own store on the gym which make things more confrotable to people w
 
 # UX
 The project is focused on people who does not go to the gym regulary, we tried to incetive people to workout their bodies, showing a lot of options to workout and leting them know that the staff are professionals in theri fields.
+I used Balsamiq to create a sketch of what the projet will look like, you will find the pdf on assets/project.pdf/SpartakGymProjectCodeInstitute.pdf
 
 # Features
 
