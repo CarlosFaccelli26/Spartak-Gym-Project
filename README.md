@@ -1,10 +1,14 @@
 # Spartak-Gym-Project
 
-Spartak Gym is a project about a gym which is grwoing fast and expand their field of training to give all the options to its users.
-It has their own store on the gym which make things more confrotable to people who are running out of time and have no time to waste.
+Are you looking for the perfect website for your gym? You find it!!
+Along this website you will find all the information that you need to let the people know like timetables, location, products...
+Easy and simple, just with one click you will be able to access to every single pages which are part of the project.
 
 # UX
-The project is focused on people who does not go to the gym regulary, we tried to incetive people to workout their bodies, showing a lot of options to workout and leting them know that the staff are professionals in theri fields.
+If you are in the middle of the process to open a new gym, and you are still looking for a proper website, we can help you.
+The main goal of the project is make a easy website which have been design focusing all the time on the future coustumers of the gym. People who does not go to the gym regulary. With this website we are trying to introduce them a new style of life. However we will help them to have the first contact with a gym and all the experiences that means (different options of workout, healthy products, pretty good instalations..). When this website was created, we did not forget neither about the staff and their main roll in the gym, so we want to let the people know that they will be supporting all the time with professionals in their fields. 
+This website have been created thinking about you to cover all your needs.
+It is not the first time we are selling our projects, however will not be a problem to show users experiences that we had before. 
 I used Balsamiq to create a sketch of what the projet will look like, you will find the pdf on assets/project.pdf/SpartakGymProjectCodeInstitute.pdf
 
 # Features
