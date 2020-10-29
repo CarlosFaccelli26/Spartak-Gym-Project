@@ -8,8 +8,12 @@ Easy and simple, just with one click you will be able to access to every single 
 If you are in the middle of the process to open a new gym, and you are still looking for a proper website, we can help you.
 The main goal of the project is make a easy website which have been design focusing all the time on the future coustumers of the gym. People who does not go to the gym regulary. With this website we are trying to introduce them a new style of life. However we will help them to have the first contact with a gym and all the experiences that means (different options of workout, healthy products, pretty good instalations..). When this website was created, we did not forget neither about the staff and their main roll in the gym, so we want to let the people know that they will be supporting all the time with professionals in their fields. 
 This website have been created thinking about you to cover all your needs.
-It is not the first time we are selling our projects, however will not be a problem to show users experiences that we had before. 
+It is not the first time we are selling our projects, however will not be a problem to show users experiences that we had before.
 I used Balsamiq to create a sketch of what the projet will look like [wireframe](https://github.com/CarlosFaccelli26/Spartak-Gym-Project/blob/main/assets/project.pdf/SpartakGymProjectCodeInstitute.pdf)
+- As a Costume of a gym i want to see a wide catalog of options to workout.
+- As a Costumer of a gym i want to know how professional are the staff.
+- As a owner of a gym i want to provide the best service for our costumers.
+
 
 # Features
 
