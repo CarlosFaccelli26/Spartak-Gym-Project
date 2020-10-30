@@ -1,6 +1,6 @@
 # Spartak-Gym-Project
 
-Are you looking for the perfect website for your gym? You find it!!
+Are you looking for the perfect website for your gym? You already find it!!
 Along this website you will find all the information that you need to let the people know like timetables, location, products...
 Easy and simple, just with one click you will be able to access to every single pages which are part of the project.
 
@@ -71,22 +71,27 @@ Used to create a sketch of the project.
 - I valid the html code of the three pages on [validator html](https://validator.w3.org/) and the css file on [css validator](https://jigsaw.w3.org/css-validator/)
 #### Sections and how will look like in different devices
 - Nav 
-Nav consist in one column on the left part we will find the logo of the website and on the right side we'll find the menu. On tablet we'll find just the logo and the menu will be hide and it will be show by an icon if we click on it, same display on mobile phone.
+Nav has been designed in one column, this column has two different parts. On one hand we have on the left of the column, the logo of the website. On the other hand, we will find the menu just on the right part. However on tablet device we are able to see just the logo and an icon. If you want to see the menu to have further information, you just have to click on that icon. 
+You can find the same display on mobile device. 
 - Hero section 
-We will find a big hero image with a text in the center of the section, i need to say this section will behave in the same way on tablet size and mobile size, with the execption that on mobile decive the hero image will change for a different one.
+Along Hero section, we can find a big hero image with a text, wich is located in the center of this section. There are not any changes on tablet device and mobile device, it will behave in the same way. Maybe you will appreciate something different on the mobile device, the hero image is not the same. 
 - Motivation section
-On this section we will have a motivating text to make people start woking out and a video about motivation. On desktop size the section will look huge so can catch the attention of the user, the video does not take all section just a small part, same format will display on tablet size but smaller.
-On mobile device the only thing that will change exept the size of the section will be the video which will take all width of the screen.
+As the name of the section indicate, in this part, just with a sentence and a video we will be trying to motivate the poeple to start to workout and start to create their new lifestyle. On desktop device, the section is pretty big because the goal of this part of the website is catch the attention of the user. Nevertheless, the video is smaller, so it is not taking all the space in that section. 
+Tablet device has the same format, in contrast to the desktop device it will be smaller. 
+On mobile device not only will be different the size of the section, but also the size of the video, which will take all the width of the section.
 - Exercise section
-Here we have two columns from bootstrap each will have half size of the screen, in one of the side we'll have an image of a girl, and the other will have a description of exercise that the gym provides. On tablet device we will have first the image of the girl in just one column and then down the image we'll have the exercises descriptions.
+The exercise section has been created on the way that we can find two different columns from bootstrap, each column will have half size of the screen. On one hand, we will have an image of a girl. On the other hand we will have a brief description of each lesson the users will be able to practice in the gym. 
+On tablet device we will have a different format: the image of the girl will be seen first, while just under this part, in a completly different column you will have the description of the activities. 
 - Product section
-Pretty similar display than the section before. On desktop the first part will be a description of products that the gym have on store, and next to it will be an image of a certain product, will be two columns which will take half of the section each. On tablet devices will just appear the description of products it won't appear the image, same display on mobile devices.
+The Prodcut section follow a similar display than the exercise section. First of all, on desktop device we will see again the screen divide in two different columns. On the left we have several products, wich are availables on the store of the gym. On the right we can see an image wich is joined with the products about we were talking about before. On tablet device and mobile device we will not be able to see any image, just the description of the items. 
 - Opinion section
-Opinion section will consist four columns, each column will take half of the section, with and image of a costumer, name, and a brief opinion about their expericence. On tablet device will behave the same way and on mobile device each column will take all the size of the section and the image won't appear.
+Nowadays, when the people wants to start something new they look for reviews, so that is the reason why we could not forget about this section. We have four  columns where each of them will take half of the section. We have four columns, so we will have four different reviews with the picture and the name of the coustumer attached. On tablet device, we will have the same format.
+Nevertheless, on the mobile device, each column will take all the size of the section, also we will not be able to se the images. 
 - Location section
-On this location will find a header in the middle of the section and above that text will find a map with the location of the gym, on different devices will behave the same way.
+The location section is easy and simple, it will be the same format for all the devices (tablet, mobilephone and desktop). The header will be finded in the middle of the section. At the same time, the user will be able to see the exactly location throught a map located under the header. 
+
 - Footer
-The footer consist in two columns one will take a third part of the section which will be for the social links and the other will take the rest of the section wich will be for opening hours. On Tablet device wil behave the same way, but on mobile device will only appear the social links taking all the width from the section.
+Divided in two columns, we can find the footer. On one hand, one of the columns will take a third part of the section, we can find here the social media links. On the other hand, we have the opening hours. On Tablet device we will not appreciate any difference, spite of that, on mobile device we just find the social media links along all the width of the section.
 - TimeTable section
 Time table is an accordion taken from bootstrap which make things easier. The table will show each day of the week and if we click on it will display all the schechule of that day. It works the same way on different devices.
 - Contact Section
