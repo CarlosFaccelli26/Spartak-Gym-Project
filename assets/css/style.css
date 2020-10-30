@@ -188,14 +188,8 @@ body {
 }
 
 .text-product p {
-    margin-bottom: 0;
+    margin-bottom: 40px;
 }
-
-.text-product a i {
-    color: #1a1a1a;
-    margin-bottom: 30px;
-}
-
 
 .product-image {
     height: 75vh;
