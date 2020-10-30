@@ -93,9 +93,11 @@ The location section is easy and simple, it will be the same format for all the 
 - Footer
 Divided in two columns, we can find the footer. On one hand, one of the columns will take a third part of the section, we can find here the social media links. On the other hand, we have the opening hours. On Tablet device we will not appreciate any difference, spite of that, on mobile device we just find the social media links along all the width of the section.
 - TimeTable section
-Time table is an accordion taken from bootstrap which make things easier. The table will show each day of the week and if we click on it will display all the schechule of that day. It works the same way on different devices.
+We considered the best way to show to the user the timetable was in an table, so we have been using an accordion taken from bootstrap. The table will show each day of the week, If you want to knwo the lessons of that day, you just have to click on it. It works the same way on different devices.
 - Contact Section
-Contact section consits in a contact form wich will ask some details of any costumer that wants to get in touch with the gym. It was created in two columns wich will take half of the section each part will ask a certain information can be the case of "first name", "last name", "email" and "phone number". If we do not fill up this spaces it will show some warning that you need to fill up the field to process the information. Nearly at the end of the section we'll find a button to submit. On tablet devices will behave in the same way, on mobile devices each column will take all width from the section which makes four columns.
+To allow the user to be in touch with the gym, we decided to create a section where they will be able to ask for further information just following some steps and giving to the gym some details as first name or phone number. 
+The contact section has been devided in two columns where the users will find the spaces they have to fill up; If they do not, it will appear a warning to advice they must complete the form. Nearly at the end of the section we will find a button to submit. We will not apreciate any differnce on tablet device. On mobile device we will have four columns instead of two because each column will take all the width of the section. 
+
 
 # Deployment
 
