@@ -10,6 +10,8 @@ The main goal of the project is make a easy website which have been design focus
 This website have been created thinking about you to cover all your needs.
 It is not the first time we are selling our projects, however will not be a problem to show users experiences that we had before.
 I used Balsamiq to create a sketch of what the projet will look like [wireframe](https://github.com/CarlosFaccelli26/Spartak-Gym-Project/blob/main/assets/project.pdf/SpartakGymProjectCodeInstitute.pdf)
+
+### User Stories
 - As a Costume of a gym i want to see a wide catalog of options to workout.
 - As a Costumer of a gym i want to know how professional are the staff.
 - As a owner of a gym i want to provide the best service for our costumers.

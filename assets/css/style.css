@@ -247,6 +247,18 @@ body {
     height: 100vh;
 }
 
+.location-header {
+    font-style: italic;
+    text-align: center;
+    margin-top: 15px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.map {
+    width: 100%;
+    height: 90%;
+}
+
 /*---------------------------------------------Footer */
 
 .footer-site {
