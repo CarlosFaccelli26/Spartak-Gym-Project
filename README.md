@@ -12,7 +12,7 @@ It is not the first time we are selling our projects, however will not be a prob
 I used Balsamiq to create a sketch of what the projet will look like [wireframe](https://github.com/CarlosFaccelli26/Spartak-Gym-Project/blob/main/assets/project.pdf/SpartakGymProjectCodeInstitute.pdf)
 
 ### User Stories
-- As a Costume of a gym i want to see a wide catalog of options to workout.
+- As a Costumer of a gym i want to see a wide catalog of options to workout.
 - As a Costumer of a gym i want to know how professional are the staff.
 - As a owner of a gym i want to provide the best service for our costumers.
 
@@ -64,7 +64,30 @@ Was used to change the font of the entire website.
 Used to create a sketch of the project.
 
 # Testing
-
+#### Validation
+- I valid the html code of the three pages on [validator html](https://validator.w3.org/) and the css file on [css validator](https://jigsaw.w3.org/css-validator/)
+#### Sections and how will look like in different devices
+- Nav 
+Nav consist in one column on the left part we will find the logo of the website and on the right side we'll find the menu. On tablet we'll find just the logo and the menu will be hide and it will be show by an icon if we click on it, same display on mobile phone.
+- Hero section 
+We will find a big hero image with a text in the center of the section, i need to say this section will behave in the same way on tablet size and mobile size, with the execption that on mobile decive the hero image will change for a different one.
+- Motivation section
+On this section we will have a motivating text to make people start woking out and a video about motivation. On desktop size the section will look huge so can catch the attention of the user, the video does not take all section just a small part, same format will display on tablet size but smaller.
+On mobile device the only thing that will change exept the size of the section will be the video which will take all width of the screen.
+- Exercise section
+Here we have two columns from bootstrap each will have half size of the screen, in one of the side we'll have an image of a girl, and the other will have a description of exercise that the gym provides. On tablet device we will have first the image of the girl in just one column and then down the image we'll have the exercises descriptions.
+- Product section
+Pretty similar display than the section before. On desktop the first part will be a description of products that the gym have on store, and next to it will be an image of a certain product, will be two columns which will take half of the section each. On tablet devices will just appear the description of products it won't appear the image, same display on mobile devices.
+- Opinion section
+Opinion section will consist four columns, each column will take half of the section, with and image of a costumer, name, and a brief opinion about their expericence. On tablet device will behave the same way and on mobile device each column will take all the size of the section and the image won't appear.
+- Location section
+On this location will find a header in the middle of the section and above that text will find a map with the location of the gym, on different devices will behave the same way.
+- Footer
+The footer consist in two columns one will take a third part of the section which will be for the social links and the other will take the rest of the section wich will be for opening hours. On Tablet device wil behave the same way, but on mobile device will only appear the social links taking all the width from the section.
+- TimeTable section
+Time table is an accordion taken from bootstrap which make things easier. The table will show each day of the week and if we click on it will display all the schechule of that day. It works the same way on different devices.
+- Contact Section
+Contact section consits in a contact form wich will ask some details of any costumer that wants to get in touch with the gym. It was created in two columns wich will take half of the section each part will ask a certain information can be the case of "first name", "last name", "email" and "phone number". If we do not fill up this spaces it will show some warning that you need to fill up the field to process the information. Nearly at the end of the section we'll find a button to submit. On tablet devices will behave in the same way, on mobile devices each column will take all width from the section which makes four columns.
 
 # Deployment
 

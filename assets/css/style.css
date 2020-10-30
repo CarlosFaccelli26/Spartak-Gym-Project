@@ -239,6 +239,7 @@ body {
 }
 .opinion p {
     text-align: center;
+    margin-bottom: 10px;
 }
 
 /*---------------------------------------------Location */
@@ -250,7 +251,7 @@ body {
 .location-header {
     font-style: italic;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 10px;
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
 }
