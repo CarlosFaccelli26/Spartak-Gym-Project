@@ -12,36 +12,39 @@ It is not the first time we are selling our projects, however will not be a prob
 I used Balsamiq to create a sketch of what the projet will look like [wireframe](https://github.com/CarlosFaccelli26/Spartak-Gym-Project/blob/main/assets/project.pdf/SpartakGymProjectCodeInstitute.pdf)
 
 ### User Stories
-- As a Costumer of a gym i want to see a wide catalog of options to workout.
-- As a Costumer of a gym i want to know how professional are the staff.
-- As a owner of a gym i want to provide the best service for our costumers.
+- As a Costumer of a gym I want to know just with one click, which options I will have available to workout, so I want a easy website where I can surfer without problems. 
+- As a Costumer of a gym I want to have a general idea about the gym before asking for mroe information, so I think it will be handy to find timtables, products, location, offerts or the availability of the staff reflected on the website. 
+- As a owner of a gym I want to let the future costumbers know all the posibilities they will have in the gym, so I will be apreciate If they can find all that further information on the website. 
+- As a owner of a gym I want to give the best experience to the people, so I want to let everybody know we have amazing instalations and services with the best professionals. 
 
 
 # Features
 
 ### Nav section
-Our nav section contains three sites, which are home, timetabel and Contact. Home it will represent the main page, Timetable will lead to the schechule that the gym for each classes, and contact will give you the access to get in contact with the gym.
-
+We have there different sites on nav section: home, timetable and contact. 
+The main page will be finded in "Home". 
+If you want to know the schechule of the different lessons of the gym, you just have to click on "Timetable". 
+To get in contact with the gym will be easy, you just have to press "contact"
 ### Hero Motivation
-Hero section consist in a shocking phrase to catch the attention and a huge image.
+Hero section consist in two different items. First, a shocking sentence to catch the attention of the people. Second, a huge image. 
 
 ### Motivation section
-There is a paragraph wich motivates you to give a chance to workout also we add a video showing giving more motivation.
+Just with the resource of a few lines, we will be trying to motivate the people to start their workout. At the same time, we have added a video where the costumer can find a speech, wich will help them to start with their new lifestyle. 
 
 ### Exercise section
-We show some of the diciplines that the gym provides and a brief description of what consist that dicipline.
+We considered is quite important to let the people know wich activities they will be able to practice in the gym. Along this part, they will find a brief description of each discipline and lesson. 
 
 ### Products section
-Products section contains a few stuff that the gym has to offer like milk shakes or bars proteins.
+Alomg this section we will find some stuff as protein milkshakes or protein bars, wich they will be able to get in the gym shop. 
 
 ### Opinion section
-Opinion section has a review from some costumers who went to the gym and express how they felt working out in Spartak Gym.
+Nowadays, before starting an activity, the people is always looking for a good review. This is the reason why we wanted to include in the project this section, where the people will be able to give their opinion and experiences. 
 
 ### TimeTable section
-Time table shows a schechule of diciplines throughout the week.
+We can find the schechule of the different lessons throughout the week in Timetable section. 
 
 ### Contact section
-Contact section provides a form to get in touch with the gym and ask something that they might interest in.
+Contact section provides a form to get in touch with the gym, however they will have the posibility to ask for further information If it is required
 
 ![screenshot1](assets/images/screenshotProject.png)
 ![screenshot2](assets/images/screenshotProject-2.png)
