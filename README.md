@@ -67,37 +67,46 @@ Was used to change the font of the entire website.
 Used to create a sketch of the project.
 
 # Testing
+
 #### Validation
 - I valid the html code of the three pages on [validator html](https://validator.w3.org/) and the css file on [css validator](https://jigsaw.w3.org/css-validator/)
+
 #### Sections and how will look like in different devices
 - Nav 
 Nav has been designed in one column, this column has two different parts. On one hand we have on the left of the column, the logo of the website. On the other hand, we will find the menu just on the right part. However on tablet device we are able to see just the logo and an icon. If you want to see the menu to have further information, you just have to click on that icon. 
 You can find the same display on mobile device. 
+
 - Hero section 
 Along Hero section, we can find a big hero image with a text, wich is located in the center of this section. There are not any changes on tablet device and mobile device, it will behave in the same way. Maybe you will appreciate something different on the mobile device, the hero image is not the same. 
+
 - Motivation section
 As the name of the section indicate, in this part, just with a sentence and a video we will be trying to motivate the poeple to start to workout and start to create their new lifestyle. On desktop device, the section is pretty big because the goal of this part of the website is catch the attention of the user. Nevertheless, the video is smaller, so it is not taking all the space in that section. 
 Tablet device has the same format, in contrast to the desktop device it will be smaller. 
 On mobile device not only will be different the size of the section, but also the size of the video, which will take all the width of the section.
+
 - Exercise section
 The exercise section has been created on the way that we can find two different columns from bootstrap, each column will have half size of the screen. On one hand, we will have an image of a girl. On the other hand we will have a brief description of each lesson the users will be able to practice in the gym. 
-On tablet device we will have a different format: the image of the girl will be seen first, while just under this part, in a completly different column you will have the description of the activities. 
+On tablet device we will have a different format: the image of the girl will be seen first, while just under this part, in a completly different column you will have the description of the activities.
+
 - Product section
-The Prodcut section follow a similar display than the exercise section. First of all, on desktop device we will see again the screen divide in two different columns. On the left we have several products, wich are availables on the store of the gym. On the right we can see an image wich is joined with the products about we were talking about before. On tablet device and mobile device we will not be able to see any image, just the description of the items. 
+The Prodcut section follow a similar display than the exercise section. First of all, on desktop device we will see again the screen divide in two different columns. On the left we have several products, wich are availables on the store of the gym. On the right we can see an image wich is joined with the products about we were talking about before. On tablet device and mobile device we will not be able to see any image, just the description of the items.
+
 - Opinion section
 Nowadays, when the people wants to start something new they look for reviews, so that is the reason why we could not forget about this section. We have four  columns where each of them will take half of the section. We have four columns, so we will have four different reviews with the picture and the name of the coustumer attached. On tablet device, we will have the same format.
 Nevertheless, on the mobile device, each column will take all the size of the section, also we will not be able to se the images. 
+
 - Location section
 The location section is easy and simple, it will be the same format for all the devices (tablet, mobilephone and desktop). The header will be finded in the middle of the section. At the same time, the user will be able to see the exactly location throught a map located under the header. 
 
 - Footer
 Divided in two columns, we can find the footer. On one hand, one of the columns will take a third part of the section, we can find here the social media links. On the other hand, we have the opening hours. On Tablet device we will not appreciate any difference, spite of that, on mobile device we just find the social media links along all the width of the section.
+
 - TimeTable section
 We considered the best way to show to the user the timetable was in an table, so we have been using an accordion taken from bootstrap. The table will show each day of the week, If you want to knwo the lessons of that day, you just have to click on it. It works the same way on different devices.
+
 - Contact Section
 To allow the user to be in touch with the gym, we decided to create a section where they will be able to ask for further information just following some steps and giving to the gym some details as first name or phone number. 
 The contact section has been devided in two columns where the users will find the spaces they have to fill up; If they do not, it will appear a warning to advice they must complete the form. Nearly at the end of the section we will find a button to submit. We will not apreciate any differnce on tablet device. On mobile device we will have four columns instead of two because each column will take all the width of the section. 
-
 
 # Deployment
 
