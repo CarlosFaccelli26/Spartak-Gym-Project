@@ -159,7 +159,7 @@ body {
 .products {
     background: #fafafa;
     height: 100vh;
-    overflow: auto;
+    overflow: scroll;
 }
 
 .products-header a {
