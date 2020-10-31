@@ -14,7 +14,7 @@ I used Balsamiq to create a sketch of what the projet will look like [wireframe]
 ### User Stories
 - As a Costumer of a gym I want to know just with one click, which options I will have available to workout, so I want a easy website where I can surfer without problems. 
 - As a Costumer of a gym I want to have a general idea about the gym before asking for mroe information, so I think it will be handy to find timtables, products, location, offerts or the availability of the staff reflected on the website. 
-- As a owner of a gym I want to let the future costumbers know all the posibilities they will have in the gym, so I will be apreciate If they can find all that further information on the website. 
+- As a owner of a gym I want to let the future costumers know all the posibilities they will have in the gym, so I will be apreciate If they can find all that further information on the website. 
 - As a owner of a gym I want to give the best experience to the people, so I want to let everybody know we have amazing instalations and services with the best professionals. 
 
 
@@ -108,8 +108,24 @@ We considered the best way to show to the user the timetable was in an table, so
 To allow the user to be in touch with the gym, we decided to create a section where they will be able to ask for further information just following some steps and giving to the gym some details as first name or phone number. 
 The contact section has been devided in two columns where the users will find the spaces they have to fill up; If they do not, it will appear a warning to advice they must complete the form. Nearly at the end of the section we will find a button to submit. We will not apreciate any differnce on tablet device. On mobile device we will have four columns instead of two because each column will take all the width of the section. 
 
-# Deployment
+#### User Stories
 
+- As you can see while you are surfing on the website, it is so easy and simple to use, so we can say the user story and the experience the future users will have are completly joined. 
+
+- As you can see the website contains a timetable which give information about lessons that the gym provides so the costumers can see how lessons are structure throughout the week. The website also provides an exact location of where is located, which is very handy to the costumer.
+
+- The site provides a description of the types of exercises that the gym will be teaching throughout the week.
+
+- Website provides a brief comment about the staff which give them the credit of being high skills professionals, which will make the costumers fell confortable.
+
+##### Contact form
+
+1. If you try to complete the form, but you do not fill everything you will see it is impossible to submit it. 
+2. however, if your email address is not correct, you will see a warning, so you have to rewrite the correct details.
+3. If you fill up all the details correct, you will see that the page will reolad again which means all the details were correct. 
+
+# Deployment
+The project was deployed on github pages.
 # Credits
 
 ### Images used on this Project
