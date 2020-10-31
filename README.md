@@ -69,8 +69,8 @@ Used to create a sketch of the project.
 # Testing
 
 #### Validation
-- I valid the html code of the three pages on [validator html](https://validator.w3.org/) and the css file on [css validator](https://jigsaw.w3.org/css-validator/)
-
+- index.html, contact.html, timetable.html were checked by [W3C Markup Validation Service](https://validator.w3.org). It showned no errors or warnings
+- style.css was checked by [W3c CSS Validator](https://jigsaw.w3.org/css-validator/validator). It showned no errors or warnings.
 #### Sections and how will look like in different devices
 - Nav 
 Nav has been designed in one column, this column has two different parts. On one hand we have on the left of the column, the logo of the website. On the other hand, we will find the menu just on the right part. However on tablet device we are able to see just the logo and an icon. If you want to see the menu to have further information, you just have to click on that icon. 
@@ -126,7 +126,12 @@ The contact section has been devided in two columns where the users will find th
 
 # Deployment
 The project was upload on github pages.
-There is no big difference on the local project and on live version, on mac devices there is some spaces different thant on window device, though i do not know how to fix this problem.
+The process was:
+1. Go to the repository and click on the icon of settings.
+2. Follow that we need to scroll down until we reach gitHub pages.
+3. We need to click on it and use the master branch, then save.
+
+
 # Credits
 
 ### Images used on this Project
