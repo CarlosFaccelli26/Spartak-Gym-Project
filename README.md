@@ -125,7 +125,8 @@ The contact section has been devided in two columns where the users will find th
 3. If you fill up all the details correct, you will see that the page will reolad again which means all the details were correct. 
 
 # Deployment
-The project was deployed on github pages.
+The project was upload on github pages.
+There is no big difference on the local project and on live version, on mac devices there is some spaces different thant on window device, though i do not know how to fix this problem.
 # Credits
 
 ### Images used on this Project

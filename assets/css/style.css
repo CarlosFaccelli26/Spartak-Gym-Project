@@ -48,6 +48,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: scroll;
 }
 
 .hero-text h1 {
@@ -88,6 +89,7 @@ body {
     height: 100vh;
     display: flex;
     align-items: flex-start;
+    overflow: scroll;
 }
 
 .motivation h2 {
@@ -155,8 +157,9 @@ body {
 /*---------------------------------------------Products */
 
 .products {
-    height: 100vh;
     background: #fafafa;
+    height: 100vh;
+    overflow: auto;
 }
 
 .products-header a {
@@ -203,6 +206,7 @@ body {
     background: #1a1a1a;
     color: #fafafa;
     height: 100vh;
+    overflow: scroll;
 }
 
 .opinion {
@@ -246,6 +250,7 @@ body {
 
 .location {
     height: 100vh;
+    overflow: hidden;
 }
 
 .location-header {
@@ -263,7 +268,7 @@ body {
 /*---------------------------------------------Footer */
 
 .footer-site {
-    height: 15vh;
+    height: auto;
     display: flex;
     text-align: center;
     align-items: center;
