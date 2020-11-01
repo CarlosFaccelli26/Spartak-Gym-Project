@@ -142,6 +142,9 @@ To run the project locally you must clone the repository, how?.
 1. Go to the project's repository and click the code button.
 2. Then click at least in my case, open Github for desktop, it will open a window which says if you want to clone the repository. And that is all, you have clone the repository and is ready to use!
 
+##### Issues
+On Mac devices 
+
 
 # Credits
 

@@ -6,8 +6,6 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
-/*---------------------------------------------UTILITIES */
-
 /*---------------------------------------------NAVBAR */
 
 .logo-brand {
@@ -159,11 +157,6 @@ body {
 .products {
     background: #fafafa;
     height: 100vh;
-    overflow: scroll;
-}
-
-.products-header a {
-    text-decoration: none;
 }
 
 .products-header h2 {
@@ -177,12 +170,12 @@ body {
 }
 
 .text-products {
-    height: 100vh;
+    height: 75vh;
 }
 
 .text-product {
     color: #1a1a1a;
-    
+    height: 25%;
 }
 
 .text-product h5 {
@@ -191,13 +184,14 @@ body {
 }
 
 .text-product p {
-    margin-bottom: 40px;
+    font-weight: 500;
 }
 
 .product-image {
     height: 75vh;
     background: url(../images/product-image.jpg);
     background-size: cover;
+    background-position: bottom;
 }
 
 /*---------------------------------------------Opinion */
