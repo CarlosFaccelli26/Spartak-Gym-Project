@@ -77,7 +77,7 @@ Used to give the stunnig contrast on the website.
 
 #### Validation
 - index.html, contact.html, timetable.html were checked by [W3C Markup Validation Service](https://validator.w3.org). It showned no errors or warnings
-- style.css was checked by [W3c CSS Validator](https://jigsaw.w3.org/css-validator/validator). It showned no errors or warnings.
+- style.css was checked by [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator). It showned no errors or warnings.
 #### Sections and how will look like in different devices
 - Nav 
 Nav has been designed in one column, this column has two different parts. On one hand we have on the left of the column, the logo of the website. On the other hand, we will find the menu just on the right part. However on tablet device we are able to see just the logo and an icon. If you want to see the menu to have further information, you just have to click on that icon. 
@@ -141,9 +141,6 @@ The process was:
 To run the project locally you must clone the repository, how?.
 1. Go to the project's repository and click the code button.
 2. Then click at least in my case, open Github for desktop, it will open a window which says if you want to clone the repository. And that is all, you have clone the repository and is ready to use!
-
-##### Issues
-On Mac devices 
 
 
 # Credits

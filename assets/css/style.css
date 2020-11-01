@@ -82,7 +82,7 @@ body {
 
 /*---------------------------------------------MOTIVATION */
 
-.motivation {
+.motivation-bg {
     text-align: center;
     height: 100vh;
     display: flex;
@@ -90,7 +90,7 @@ body {
     overflow: scroll;
 }
 
-.motivation h2 {
+.motivation-bg h2 {
     font-family: 'Roboto', sans-serif;
     font-style: italic;
     font-weight: 700;
@@ -109,6 +109,7 @@ body {
     font-size: 25px;
     font-weight: 700;
     color: #1a1a1a;
+    line-height: 60px;
 }
 
 .embed-responsive {
@@ -139,6 +140,7 @@ body {
 .exercise-text {
     font-style: italic;
     margin-top: 10px;
+    line-height: 40px;
 }
 
 .exercise-text h4 {
@@ -154,28 +156,32 @@ body {
 
 /*---------------------------------------------Products */
 
-.products {
+.products-bg {
     background: #fafafa;
-    height: 100vh;
+    height: 100%;
+    overflow: scroll;
 }
 
 .products-header h2 {
     font-size: 33px;
     font-weight: 700;
     text-align: center;
-    margin-top: 40px;
-    margin-bottom: 30px;
     color: #1a1a1a;
+    height: 15vh;
+    margin-top: 25px;
 
 }
 
 .text-products {
     height: 75vh;
+    overflow: scroll;
 }
 
 .text-product {
     color: #1a1a1a;
-    height: 25%;
+    height: auto;
+    line-height: 10vh;
+    text-align: center;
 }
 
 .text-product h5 {
@@ -207,6 +213,8 @@ body {
     margin-bottom: 0;
     padding-bottom: 0;
     text-align: center;
+    line-height: 50px;
+    height: 380px;
 }
 
 .opinion-header {
