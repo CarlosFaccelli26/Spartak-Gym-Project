@@ -55,16 +55,23 @@ Contact section provides a form to get in touch with the gym, however they will 
 
 # Technologies used
 [Bootstrap](https://getbootstrap.com/)
-I used bootstrap to help me to creat a good layout.
+I used bootstrap to help me to creat a good layout. also using the [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Jquery](https://developer.mozilla.org/en-US/docs/Glossary/jQuery) to make the menu display in mobile devices. Also was used to the accordion on the timtable section to make a beautiful table.
 
 [FontAwesome](https://fontawesome.com/)
-FontAwesome was used to use the bar icon for the nav.
+FontAwesome was used to use the bar icon for the nav and social links.
 
 [GoogleFonts](https://fonts.google.com/)
 Was used to change the font of the entire website.
 
 [Balsamiq](https://balsamiq.com/wireframes/?gclid=Cj0KCQjwxNT8BRD9ARIsAJ8S5xaAbjJltmwD4q91nzDzQshYwxYDZuBzF_kJr_SYEDblnesiQi3-QnoaAipTEALw_wcB)
 Used to create a sketch of the project.
+
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+Used to creat all the text throughout the website.
+
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+Used to give the stunnig contrast on the website.
+
 
 # Testing
 
@@ -131,6 +138,10 @@ The process was:
 2. Follow that we need to scroll down until we reach gitHub pages.
 3. We need to click on it and use the master branch, then save.
 
+To run the project locally you must clone the repository, how?.
+1. Go to the project's repository and click the code button.
+2. Then click at least in my case, open Github for desktop, it will open a window which says if you want to clone the repository. And that is all, you have clone the repository and is ready to use!
+
 
 # Credits
 
@@ -168,3 +179,11 @@ Video is taken from the chanel of [MotivationGrid](https://www.youtube.com/user/
 
 ### Acknowledgement
 I received inspiration from [Colorlib](https://colorlib.com/wp/gym-websites-design/) [Fitness Factory](https://fitnessfactorymaine.com/)
+
+[Matt Rudge, Code Institute](https://courses.codeinstitute.net/program/FullstackWebDeveloper) I get inspiration to create the navbar and the hero image.
+
+[Rahul lakhanpal](https://courses.codeinstitute.net/program/FullstackWebDeveloper) He helped me throughout the project so thank you so much!
+
+[Bootstrapp](https://getbootstrap.com/) Thanks to Bootstrap i acomplish a lot of things in these project.
+
+
