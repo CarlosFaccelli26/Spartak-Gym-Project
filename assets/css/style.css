@@ -4,6 +4,7 @@
 
 body {
     font-family: 'Oswald', sans-serif;
+    min-height: 100vh;
 }
 
 /*---------------------------------------------NAVBAR */
@@ -74,17 +75,19 @@ body {
     font-weight: 700;
     text-transform: uppercase;
     margin-top: 50px;
+    transition: all .5s;
 }
 
 .btn-bg:hover {
-    color: #fafafa;
+    color: rgba(255, 81, 0, 0.89);
+    background: #fff;
 }
 
 /*---------------------------------------------MOTIVATION */
 
 .motivation-bg {
     text-align: center;
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: flex-start;
     overflow: scroll;
@@ -236,6 +239,7 @@ body {
     height: 120px;
     border-radius: 50%;
     margin: auto;
+    object-fit: cover;
 }
 
 .opinion h6 {
