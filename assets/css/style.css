@@ -324,6 +324,7 @@ body {
 .timetable {
     background: black;
     padding-bottom: 20px;
+    min-height: calc(100vh - 150px);
 }
 
 .card {
@@ -377,6 +378,7 @@ body {
 
 .contact-bg {
     background: #1a1a1a;
+    min-height: calc(100vh - 150px);
 }
 .form-section {
     padding-bottom: 10px;
