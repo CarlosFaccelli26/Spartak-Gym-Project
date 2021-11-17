@@ -7,6 +7,16 @@ body {
     min-height: 100vh;
 }
 
+.bg-black {
+    background: #1a1a1a;
+    min-height: 100vh;
+}
+
+.bg-white {
+    background: #fff;
+    min-height: 100vh;
+}
+
 /*---------------------------------------------NAVBAR */
 
 .logo-brand {
@@ -139,9 +149,6 @@ body {
 
 /*---------------------------------------------Exercise */
 
-.exercise {
-    background: #1a1a1a;
-}
 .exercise-bg {
     background: url(../images/exercise.jpg);
     background-size: cover;
@@ -174,12 +181,6 @@ body {
 }
 
 /*---------------------------------------------Products */
-
-.products-bg {
-    background: #fafafa;
-    height: 100%;
-    overflow: scroll;
-}
 
 .products-header h2 {
     font-size: 33px;
@@ -221,10 +222,7 @@ body {
 /*---------------------------------------------Opinion */
 
 .opinion-bg {
-    background: #1a1a1a;
-    color: #fafafa;
-    height: 100vh;
-    overflow: scroll;
+    color: #fff;
 }
 
 .opinion {
@@ -241,6 +239,7 @@ body {
     font-weight: 700;
     font-style: italic;
     margin-bottom: 40px;
+    color: #fff;
 }
 
 .opinion-sub-header {
@@ -305,13 +304,18 @@ body {
 
 .icon-footer a i {
     font-size: 30px;
-    color: black;
+    color: #fff;
     font-weight: 700;
     margin-right: 20px;
+    transition: all .5s ease;
+}
+
+.icon-footer a i:hover {
+    color: #f54b08;
 }
 
 .time {
-    color: #1a1a1a;
+    color: #fff;
     text-align: right;
     align-items: center;
     margin: auto;
@@ -437,6 +441,10 @@ body {
     .opinion-bg {
         height: auto;
     }
+
+    .opinion {
+        height: auto;
+    }
 }
 
 /*---------------------------------------------Footer */
@@ -447,6 +455,10 @@ body {
         align-items: center;
         justify-content: space-between;
         padding-bottom: 40px;
+    }
+
+    .footer-site p {
+        margin-top: 3rem!important;   
     }
 }
 
